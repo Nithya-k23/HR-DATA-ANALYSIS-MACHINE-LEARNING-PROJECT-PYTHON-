@@ -375,4 +375,13 @@ Age
 
 ---
 
+# 🙌 Author
+
+Nithya K
+
+Data Scientist / Data Analyst
+
+LinkedIn: https://www.linkedin.com/in/nithya-k-130402148/
+
+---
 
